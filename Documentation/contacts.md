@@ -2,7 +2,7 @@
 sort: 10
 ---
 
-# Mathjax Test
+# Contacts
 
 $$
 \begin{aligned}

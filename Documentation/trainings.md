@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Code Blocks
+# Trainings
 
 `inline code`
 

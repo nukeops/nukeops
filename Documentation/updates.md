@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Emoji Test
+# Updates
 
 ```
 I give this theme two :+1:!
